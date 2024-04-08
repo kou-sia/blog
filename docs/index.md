@@ -16,4 +16,4 @@
 DM開放してますので、何かあればコメントか修正PRください
 
 - [Twitter(新X)](https://twitter.com/kou_sia)
-- [blog repository](https://github.com/kou-sia/blog)
+- [blog repository](https://github.com/kou-sia/blog/issues)
