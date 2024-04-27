@@ -20,4 +20,3 @@
 DM開放してますので、何かあればコメントください
 
 - [Twitter(新X)](https://twitter.com/kou_sia)
-- [blog repository](https://github.com/kou-sia/blog/issues)
