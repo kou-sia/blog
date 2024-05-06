@@ -19,7 +19,7 @@
 
 分野問わず気になる事を書きます。  
 このブログは私個人の経験や見解に基づいたものです。  
-Opinions are my own.    
+Opinions are my own.  
 
 ### SNS
 
