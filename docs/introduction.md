@@ -15,8 +15,11 @@ Opinions are my own.
 
 ## 記事色々
 
-- [日本で生きるコツとか](/tips.md)
+- [日本で生きるコツのようなもの](/insights-for-living-in-japan.md)
+- [実は副業で月に1万稼ぐより5万稼ぐ方が簡単という話](/herder-to-earn-min-amount.md)
+
 - [将棋のはなし](/shogi.md)
+- [読んだ本と読みたい本リスト](/reading-list.md)
 
 ## いずれ書く
 
