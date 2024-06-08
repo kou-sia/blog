@@ -6,6 +6,7 @@
 - 仕事 : ソフトウェアエンジニア/エンジニアリングマネージャー
 - プログラミング : TypeScript/Next.js/Python
 - 趣味 : 読書/スポーツ全般(特にフットサル/水泳)
+- 文章 : The quick brown fox jumps over the lazy dog.
 
 ## このブログについて
 
