@@ -26,7 +26,6 @@ Opinions are my own.
 
 - [書きたいけどまだ書けてないこと](/wip.md)
 
-
 ## SNS
 
 DM解放しています。  
